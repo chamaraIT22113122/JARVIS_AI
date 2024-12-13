@@ -21,6 +21,13 @@ The **Jarvis Personal Assistant AI System** is an intelligent, Python-based virt
   
 - **Customizable & Extensible**  
   - Easily customizable to suit user preferences and extendable with new features and plugins.
+ 
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/867ee1f1-36ab-426f-b7c1-704b47bbaa7c)
+
+![App Screenshot](https://github.com/user-attachments/assets/0811a7a2-b472-490e-bf6b-107562aee53c)
+
 
 ## Requirements
 
@@ -38,3 +45,6 @@ You can install the necessary libraries using `pip`:
 
 ```bash
 pip install speech_recognition pyttsx3 nltk requests beautifulsoup4 pyautogui schedule
+
+
+
